@@ -514,7 +514,7 @@ header {
     display: none;
 }
 .left {
-    background-image: url('/img/m6.jpg');
+    background-image: url('../img/m6.jpg');
     background-repeat: no-repeat;
     background-position: initial;
     background-size: cover;
@@ -579,4 +579,5 @@ header {
 .timer-desktop {
     display: none;
 }
+
 }
